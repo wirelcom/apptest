@@ -1,0 +1,17 @@
+{
+    "id": "ExtBox1-ext-gen3506",
+    "type": "checkboxfield",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "label": "Field",
+        "designer|userClassName": "MyCheckbox"
+    },
+    "customConfigs": [],
+    "designerId": "111e2cf1-108c-4b90-a37d-25a485f12dbf",
+    "$viewOrder": 2,
+    "expanded": true
+}

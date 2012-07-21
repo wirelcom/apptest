@@ -1,0 +1,69 @@
+{
+    "id": "ExtBox1-ext-gen2480",
+    "type": "datepickerfield",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "height": 119,
+        "width": 320,
+        "label": "Field",
+        "placeHolder": "mm/dd/yyyy",
+        "designer|userClassName": "MyDateField"
+    },
+    "customConfigs": [],
+    "designerId": "f05fc7e9-804b-45cf-bdc9-c987d98eab72",
+    "$viewOrder": 0,
+    "expanded": true,
+    "cn": [
+        {
+            "id": "ExtBox1-ext-gen2490",
+            "type": "datepicker",
+            "reference": {
+                "name": "picker",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyDatePicker"
+            },
+            "customConfigs": [],
+            "expanded": true,
+            "cn": [
+                {
+                    "id": "ExtBox1-ext-gen2501",
+                    "type": "button",
+                    "reference": {
+                        "name": "doneButton",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "text": "Done",
+                        "designer|userClassName": "MyButton"
+                    },
+                    "customConfigs": [],
+                    "expanded": true
+                },
+                {
+                    "id": "ExtBox1-ext-gen2510",
+                    "type": "button",
+                    "reference": {
+                        "name": "cancelButton",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "text": "Cancel",
+                        "designer|userClassName": "MyButton1"
+                    },
+                    "customConfigs": [],
+                    "expanded": true
+                }
+            ]
+        }
+    ]
+}

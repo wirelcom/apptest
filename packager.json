@@ -1,0 +1,16 @@
+{
+    "applicationName": "Huron",
+    "applicationId": "com.mycompany.myAppID",
+    "bundleSeedId": "",
+    "versionString": "1.0",
+    "iconName": "",
+    "inputPath": "webapp/",
+    "outputPath": "C:/Users/Ringo/Desktop/Se",
+    "configuration": "Debug",
+    "platform": "iOSSimulator",
+    "deviceType": "Universal",
+    "certificatePath": "/path/to/certificate.file",
+    "certificateAlias": "",
+    "sdkPath": "/path/to/android-sdk",
+    "androidAPILevel": ""
+}
